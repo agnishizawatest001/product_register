@@ -1,0 +1,6 @@
+[user]
+	name = agnishizawatest001
+	email = nishizawawork2@gmail.com
+[remote "origin"]
+	url = https://github.com/agnishizawatest001/product_register.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
